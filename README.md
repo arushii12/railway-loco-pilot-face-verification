@@ -114,6 +114,20 @@ Expected Output
 * Unauthorized person at normal distance: Unauthorized Person
 * Unauthorized person too close to camera: Move Back
 
+Results and Screenshots
+
+The following screenshots demonstrate the working of the face verification system under different conditions.
+
+Authorized pilot verification:
+results/verified_face.png
+
+Unauthorized person detection:
+results/unknown_face.png
+
+No face detected case:
+results/no_face_detected.png
+
+
 ---
 
 Key Design Decisions
