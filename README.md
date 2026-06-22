@@ -159,14 +159,4 @@ Future Enhancements
 
 ---
 
-Author
 
-Arushi
-GitHub: [https://github.com/arushii12](https://github.com/arushii12)
-Indian Railways Internship – Face Verification Module
-
----
-
-Disclaimer
-
-This project is developed for educational and internship demonstration purposes and represents a proof-of-concept for railway safety systems.
