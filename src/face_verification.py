@@ -54,7 +54,7 @@ while True:
 
         face_area = w * h
 
-        # 🚫 Reject faces that are too close
+        # Reject faces that are too close
         if face_area > 0.25 * frame_area:
             cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 0, 255), 2)
             cv2.putText(
